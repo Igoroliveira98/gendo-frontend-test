@@ -2,7 +2,6 @@
 Este repositório tem como fim testar os candidatos para vaga de front-end developer na empresa [Gendo](https://gendo.com.br).
 > Para esta vaga buscamos alguém apaixonado por HTML, CSS, JavaScript e atento aos detalhes!
 
-
 ## Instruções Básicas
 1. Faça um fork deste repositório
 2. Implemente o HTML e CSS de forma que fique fiel ao layout
