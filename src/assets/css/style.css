@@ -116,6 +116,7 @@
 
 .content__main--projects .content__main--title .btn-repos.active {
     border-bottom: 3px solid #E36209;
+    font-weight: bold;
 }
 
 .content__main--projects .content__main--title .btn-repos span {
@@ -155,7 +156,7 @@
     color: #999999;
 }
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos {
     margin: 25px 0;
     border-bottom: 1px solid var(--pele-grey);
     /* display: hidden; */
@@ -169,28 +170,28 @@
     display: none;
 }
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos a {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos a {
     font-size: 25px;
     margin-bottom: 30px;
 }
 
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos a span {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos a span {
     font-weight: bold;
 }
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos .description {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos .description {
     width: 60%;
     font-size: 15px;
     color: #666666;
     margin: 5px 0 15px;
 }
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos .numbers {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos .numbers {
     margin-bottom: 30px;
 }
 
-.content__main--projects .content__main--repositories .content__main--repo .content__repos .numbers span {
+.content__main--projects .content__main--repositories .content__main--repo .content__repos .repos .numbers span {
     margin-right: 20px;
     font-size: 12px;
     color: rgba(0, 0, 0, 0.7)
